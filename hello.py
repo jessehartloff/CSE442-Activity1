@@ -13,12 +13,35 @@ def hello():
 print("hello world!")
 print("hey world!")
 
+def hello():
+    print("hello world!")
+
+def hello2():
+    #This is the new and improved version of hello world
+    #New Features include printing hello world in a better way
+    #I need a fifth line
+    print("hello world release v2.0")
+
 def helloo():
     print("I said hello world!")
     print("hello world!")
 
+def hellohello():
+	print("Hello! Hello!")
+	print("I don't know why you say goodbye, I say hello")
+
 def goodbye():
     print("goodbye")
+
+def clown():
+    i = 0
+    while i < 999999999:
+        print("dank memes")
+        print("donkey kong")
+        print("skdjfnkjsldfhnjklsadfhsjldf")
+        i=+1
+
+
 def helloMemeBoi():
 	x = ""
 	while True:
