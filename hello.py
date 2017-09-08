@@ -13,6 +13,10 @@ def hello():
 print("hello world!")
 print("hey world!")
 
+    #Adding some comments
+    #Gotta get those five lines, boi
+print("I want that gold star!")
+
 def hello():
     print("hello world!")
 
@@ -29,16 +33,8 @@ def helloo():
 def goodbye():
     print("goodbye")
 def helloMemeBoi():
-	x = ""
-	while True:
-
-
-
-
-
-
-
-
+	x = "Have you ever heard the tragedy of Darth Plagueis the Wise?"
+    print(x)
 
 def benchmark():
 	while(True):
