@@ -11,12 +11,16 @@ def hello():
 print("hello world!")
 print("hey world!")
 
-def hello():
+def helloo():
+    print("I said hello world!")
     print("hello world!")
 
+def goodbye():
+    print("goodbye")
 def helloMemeBoi():
 	x = ""
 	while True:
+<<<<<<< HEAD
 
 		print(x + "hello")
 		print(x + "meme")
