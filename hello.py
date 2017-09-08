@@ -13,11 +13,8 @@ def hello():
 print("hello world!")
 print("hey world!")
 
-    #Adding some comments
-    #Gotta get those five lines, boi
-print("I want that gold star!")
-
-def hello():
+def helloo():
+    print("I said hello world!")
     print("hello world!")
 
 def hello2():
@@ -30,36 +27,68 @@ def helloo():
     print("I said hello world!")
     print("hello world!")
 
+def hellohello():
+    print("Hello! Hello!")
+    print("I don't know why you say goodbye, I say hello")
+    print("I say high, you say low, You say why and I say I don't know!")
+
+
+
 def goodbye():
     print("goodbye")
+
+def why():
+    print("Shouldn't a guy know how to use git by now come on fam")
+       print("Shouldn't a guy know how to use git by now come on fam")
+          print("Shouldn't a guy know how to use git by now come on fam")
+             print("Shouldn't a guy know how to use git by now come on fam")
+                print("Shouldn't a guy know how to use git by now come on fam")
+                
+
+def clown():
+    i = 0
+    while i < 999999999:
+        print("dank memes")
+        print("donkey kong")
+        print("skdjfnkjsldfhnjklsadfhsjldf")
+        i=+1
+
+#not efficient but works
+def fib(n):
+    if n < 2:
+        return n
+    return fib(n-2) + fib(n-1)
+
 def helloMemeBoi():
 	x = "Have you ever heard the tragedy of Darth Plagueis the Wise?"
     print(x)
 	x = ""
 	while True:
+    x = ""
+    while True:
 
 def goodbye():
     print("goodbye")
 def helloMemeBoi():
-	x = ""
-	while True:
-		print(x + "hello")
-		print(x + "meme")
- 		print(x + "boi")
- 		x = " " + x
-		print(x + "hello")
-		print(x + "meme")
-		print(x + "boi")
-		x = " " + x
+    x = ""
+    while True:
+        print(x + "hello")
+        print(x + "meme")
+         print(x + "boi")
+         x = " " + x
+        print(x + "hello")
+        print(x + "meme")
+        print(x + "boi")
+        x = " " + x
 
 def goodbye():
     print("goodbye world!")
 
 
 def benchmark():
-	while(True):
-		print("PUSHING THE LIMIT")
-		print("NOT YOUR GRANDMA'S BENCHMARK!!!")
-		print("THROW SOME ICE ON THAT CPU CUZ THIS IS FIRE")
-		if 2 + 2 == 5:
-			break # this should never happen
+    while(True):
+        print("PUSHING THE LIMIT")
+        print("NOT YOUR GRANDMA'S BENCHMARK!!!")
+        print("THROW SOME ICE ON THAT CPU CUZ THIS IS FIRE")
+        if 2 + 2 == 5:
+            break # this should never happen
