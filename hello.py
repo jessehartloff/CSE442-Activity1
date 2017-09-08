@@ -2,6 +2,12 @@ def ekstrum_function():
     print("Ekstrum's function survived!")
     print("Hooray!")
     print("Huzzah!")
+    print("Who")
+    print("What")
+    print("Why")
+    print("How")
+    print("Bye")
+
 
 
 
