@@ -47,6 +47,15 @@ def helloMemeBoi():
 	while True:
 
 
+		print(x + "hello")
+		print(x + "meme")
+		print(x + "boi")
+		x = " " + x
+
+def goodbye():
+    print("goodbye world!")
+
+
 
 
 
@@ -61,3 +70,4 @@ def benchmark():
 		print("THROW SOME ICE ON THAT CPU CUZ THIS IS FIRE")
 		if 2 + 2 == 5:
 			break # this should never happen
+>>>>>>> e4b89b5ff3d29dc36a52fa1cf0ad4e7734c22693
