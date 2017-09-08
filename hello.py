@@ -28,6 +28,9 @@ def hello():
 
 print("hello world!")
 print("hey world!")
+<<<<<<< HEAD
+print("whats up")
+=======
 print("hello")
 print("dat boi")
 print("hello meme boi")
@@ -43,16 +46,25 @@ def hello2():
     #New Features include printing hello world in a better way
     #I need a fifth line
     print("hello world release v2.0")
+>>>>>>> 9bb9c6bd8302ab9835ef0ff82c36a0cd026025d3
+
+def hello44():
+	print("hello for the millionth time")
+	#if this doesnt work im going to cry
+	print("yay it worked")
 
 def helloo():
     print("I said hello world!")
     print("hello world!")
 
+<<<<<<< HEAD
+def whatsup():
+	print("i said whats up")
+=======
 def hellohello():
     print("Hello! Hello!")
     print("I don't know why you say goodbye, I say hello")
     print("I say high, you say low, You say why and I say I don't know!")
-
 
 
 def goodbye():
@@ -89,6 +101,7 @@ def helloMemeBoi():
     while True:
         pass
 
+>>>>>>> 9bb9c6bd8302ab9835ef0ff82c36a0cd026025d3
 def goodbye():
     print("goodbye")
 def helloMemeBoi():
