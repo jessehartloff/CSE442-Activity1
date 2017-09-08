@@ -1,0 +1,10 @@
+def batman():
+    print("I'm")
+    print("just")
+    print("doing")
+    print("this")
+    print("so")
+    print("I")
+    print("don't")
+    print("get")
+    print("fined")
