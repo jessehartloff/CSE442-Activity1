@@ -35,6 +35,26 @@ def goodbye():
 def helloMemeBoi():
 	x = "Have you ever heard the tragedy of Darth Plagueis the Wise?"
     print(x)
+	x = ""
+	while True:
+
+def goodbye():
+    print("goodbye")
+def helloMemeBoi():
+	x = ""
+	while True:
+		print(x + "hello")
+		print(x + "meme")
+ 		print(x + "boi")
+ 		x = " " + x
+		print(x + "hello")
+		print(x + "meme")
+		print(x + "boi")
+		x = " " + x
+
+def goodbye():
+    print("goodbye world!")
+
 
 def benchmark():
 	while(True):
