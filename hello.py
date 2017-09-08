@@ -3,6 +3,12 @@ def ekstrum_function():
     print("Hooray!")
     print("Huzzah!")
 
+def DennisBlack():
+    printf("Can I have $300,000?")
+    printf("No")
+    printf("Too late I already took it.")
+    printf("Not cool")
+
 def hello():
     print("hello world!")
 
