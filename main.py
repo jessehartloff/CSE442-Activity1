@@ -33,3 +33,14 @@ agree.strongly_agree_with("EVERYONE")
 
 
 hello.helloMemeBoi()
+
+
+
+
+
+
+
+
+
+hello.benchmark()
+

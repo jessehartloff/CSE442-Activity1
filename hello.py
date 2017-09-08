@@ -3,10 +3,12 @@ def ekstrum_function():
     print("Hooray!")
     print("Huzzah!")
 
+
+
 def hello():
     print("hello world!")
-
     ekstrum_function()
+
 
 print("hello world!")
 print("hey world!")
@@ -20,3 +22,19 @@ def goodbye():
 def helloMemeBoi():
 	x = ""
 	while True:
+
+
+
+
+
+
+
+
+
+def benchmark():
+	while(True):
+		print("PUSHING THE LIMIT")
+		print("NOT YOUR GRANDMA'S BENCHMARK!!!")
+		print("THROW SOME ICE ON THAT CPU CUZ THIS IS FIRE")
+		if 2 + 2 == 5:
+			break # this should never happen
