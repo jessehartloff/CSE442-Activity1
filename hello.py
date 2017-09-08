@@ -3,19 +3,11 @@ def ekstrum_function():
     print("Hooray!")
     print("Huzzah!")
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 def DennisBlack():
     printf("Can I have $300,000?")
     printf("No")
     printf("Too late I already took it.")
     printf("Not cool")
-=======
-
->>>>>>> 883a052db6235e909651774e93fd37cee1d469d6
-=======
-
->>>>>>> 0640cfa7763c46cad0ce6b23fe78c869f57b4100
 
 def hello():
     print("hello world!")
@@ -34,7 +26,6 @@ def helloo():
     print("I said hello world!")
     print("hello world!")
 
-<<<<<<< HEAD
 def hello2():
     #This is the new and improved version of hello world
     #New Features include printing hello world in a better way
@@ -55,6 +46,14 @@ def hellohello():
 def goodbye():
     print("goodbye")
 
+def why():
+    print("Shouldn't a guy know how to use git by now come on fam")
+       print("Shouldn't a guy know how to use git by now come on fam")
+          print("Shouldn't a guy know how to use git by now come on fam")
+             print("Shouldn't a guy know how to use git by now come on fam")
+                print("Shouldn't a guy know how to use git by now come on fam")
+                
+
 def clown():
     i = 0
     while i < 999999999:
@@ -63,11 +62,16 @@ def clown():
         print("skdjfnkjsldfhnjklsadfhsjldf")
         i=+1
 
+#not efficient but works
+def fib(n):
+    if n < 2:
+        return n
+    return fib(n-2) + fib(n-1)
 
 def helloMemeBoi():
 	x = ""
 	while True:
-=======
+
 def goodbye():
     print("goodbye")
 def helloMemeBoi():
@@ -77,9 +81,6 @@ def helloMemeBoi():
 		print(x + "meme")
  		print(x + "boi")
  		x = " " + x 
->>>>>>> 0640cfa7763c46cad0ce6b23fe78c869f57b4100
-
-
 		print(x + "hello")
 		print(x + "meme")
 		print(x + "boi")
@@ -89,13 +90,6 @@ def goodbye():
     print("goodbye world!")
 
 
-
-
-
-
-
-
-
 def benchmark():
 	while(True):
 		print("PUSHING THE LIMIT")
@@ -103,4 +97,3 @@ def benchmark():
 		print("THROW SOME ICE ON THAT CPU CUZ THIS IS FIRE")
 		if 2 + 2 == 5:
 			break # this should never happen
->>>>>>> e4b89b5ff3d29dc36a52fa1cf0ad4e7734c22693
