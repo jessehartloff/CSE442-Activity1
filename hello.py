@@ -22,3 +22,7 @@ def helloMemeBoi():
 		print(x + "meme")
 		print(x + "boi")
 		x = " " + x
+
+def goodbye():
+    print("goodbye world!")
+

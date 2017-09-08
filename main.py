@@ -32,3 +32,4 @@ hello.hello()
 
 
 hello.helloMemeBoi()
+hello.goodbye()
