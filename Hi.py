@@ -1,1 +1,1 @@
-print("I wanna have bubble tea")
+print("hi")
