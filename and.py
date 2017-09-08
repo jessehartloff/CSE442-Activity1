@@ -1,1 +1,7 @@
 print("world")
+print("Hello world")
+print("Hello worl")
+print("Hello wor")
+print("Hello wo")
+print("Hello w")
+print("Hello ")
