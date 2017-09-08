@@ -8,6 +8,11 @@ def ekstrum_function():
     print("Ekstrum's function survived!")
     print("Hooray!")
     print("Huzzah!")
+def why():
+    print("Seriously?")
+    print("This is stupid")
+    print("Pushed")
+    print("Not contributer")
 
 def DennisBlack():
     printf("Can I have $300,000?")
@@ -18,6 +23,7 @@ def DennisBlack():
 def hello():
     print("hello world!")
     ekstrum_function()
+    why()
 
 
 print("hello world!")
