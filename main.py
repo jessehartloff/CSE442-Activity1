@@ -1,7 +1,8 @@
 import hello
+import agree
 
 hello.hello()
-
+agree.strongly_agree_with("EVERYONE")
 
 
 
@@ -32,3 +33,14 @@ hello.hello()
 
 
 hello.helloMemeBoi()
+
+
+
+
+
+
+
+
+
+hello.benchmark()
+
