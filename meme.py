@@ -1,4 +1,11 @@
-def deTermine_if_This_boolean_is_True_or_False(The_bool_To_check):
+def ex0pnentp(num,exp): #I WROTE THIS ON MY PHONE HOLY MOTHER OF GO
+    if num is 2:
+        if exp is 0:
+            return 1
+        else if exp is 1:
+            return 2
+    return num**exp
+defdef deTermine_if_This_boolean_is_True_or_False(The_bool_To_check):
 
     n = str(The_bool_To_check)
     resulT = None
