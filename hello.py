@@ -3,7 +3,11 @@ def ekstrum_function():
     print("Hooray!")
     print("Huzzah!")
 
-
+def DennisBlack():
+    printf("Can I have $300,000?")
+    printf("No")
+    printf("Too late I already took it.")
+    printf("Not cool")
 
 def hello():
     print("hello world!")
@@ -12,6 +16,11 @@ def hello():
 
 print("hello world!")
 print("hey world!")
+print("hello")
+print("dat boi")
+print("hello meme boi")
+print("!!!!!!!")
+print("hey rick")
 
 def helloo():
     print("I said hello world!")
@@ -39,10 +48,10 @@ def goodbye():
 
 def why():
     print("Shouldn't a guy know how to use git by now come on fam")
-       print("Shouldn't a guy know how to use git by now come on fam")
-          print("Shouldn't a guy know how to use git by now come on fam")
-             print("Shouldn't a guy know how to use git by now come on fam")
-                print("Shouldn't a guy know how to use git by now come on fam")
+    print("Shouldn't a guy know how to use git by now come on fam")
+    print("Shouldn't a guy know how to use git by now come on fam")
+    print("Shouldn't a guy know how to use git by now come on fam")
+    print("Shouldn't a guy know how to use git by now come on fam")
                 
 
 def clown():
@@ -66,6 +75,7 @@ def helloMemeBoi():
 	while True:
     x = ""
     while True:
+        pass
 
 def goodbye():
     print("goodbye")
@@ -74,8 +84,8 @@ def helloMemeBoi():
     while True:
         print(x + "hello")
         print(x + "meme")
-         print(x + "boi")
-         x = " " + x
+        print(x + "boi")
+        x = " " + x
         print(x + "hello")
         print(x + "meme")
         print(x + "boi")
