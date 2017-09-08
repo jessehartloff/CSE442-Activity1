@@ -4,3 +4,10 @@ def strongly_agree_with(person):
     """
     print("I strongly agree with your opinion")
     print(person)
+    for x in range(0,5):
+        print("lol I broke your stuff")
+
+    print("All your base are belong to us")
+
+    return
+    #your welcome jeremy
