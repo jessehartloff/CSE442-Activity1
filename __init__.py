@@ -14,3 +14,9 @@ while True:
   print("this");
   print("is");
   print("suck");
+  print(f);
+  print("test");
+  print("yo");
+  print("this");
+  print("is");
+  print("suck");
