@@ -1,13 +1,18 @@
+def senioryear():
+    print("Senior year is the best year")
+    print("I am going to miss UB")
+    print("It is getting too real")
+    print("Class of 2018")
+
 def ekstrum_function():
     print("Ekstrum's function survived!")
     print("Hooray!")
     print("Huzzah!")
-    print("Who")
-    print("What")
-    print("Why")
-    print("How")
-    print("Bye")
-
+def why():
+    print("Seriously?")
+    print("This is stupid")
+    print("Pushed")
+    print("Not contributer")
 
 def DennisBlack():
     printf("Can I have $300,000?")
@@ -18,10 +23,14 @@ def DennisBlack():
 def hello():
     print("hello world!")
     ekstrum_function()
+    why()
 
 
 print("hello world!")
 print("hey world!")
+<<<<<<< HEAD
+print("whats up")
+=======
 print("hello")
 print("dat boi")
 print("hello meme boi")
@@ -37,16 +46,25 @@ def hello2():
     #New Features include printing hello world in a better way
     #I need a fifth line
     print("hello world release v2.0")
+>>>>>>> 9bb9c6bd8302ab9835ef0ff82c36a0cd026025d3
+
+def hello44():
+	print("hello for the millionth time")
+	#if this doesnt work im going to cry
+	print("yay it worked")
 
 def helloo():
     print("I said hello world!")
     print("hello world!")
 
+<<<<<<< HEAD
+def whatsup():
+	print("i said whats up")
+=======
 def hellohello():
     print("Hello! Hello!")
     print("I don't know why you say goodbye, I say hello")
     print("I say high, you say low, You say why and I say I don't know!")
-
 
 
 def goodbye():
@@ -54,10 +72,10 @@ def goodbye():
 
 def why():
     print("Shouldn't a guy know how to use git by now come on fam")
-       print("Shouldn't a guy know how to use git by now come on fam")
-          print("Shouldn't a guy know how to use git by now come on fam")
-             print("Shouldn't a guy know how to use git by now come on fam")
-                print("Shouldn't a guy know how to use git by now come on fam")
+    print("Shouldn't a guy know how to use git by now come on fam")
+    print("Shouldn't a guy know how to use git by now come on fam")
+    print("Shouldn't a guy know how to use git by now come on fam")
+    print("Shouldn't a guy know how to use git by now come on fam")
                 
 
 def clown():
@@ -75,9 +93,15 @@ def fib(n):
     return fib(n-2) + fib(n-1)
 
 def helloMemeBoi():
+	x = "Have you ever heard the tragedy of Darth Plagueis the Wise?"
+    print(x)
+	x = ""
+	while True:
     x = ""
     while True:
+        pass
 
+>>>>>>> 9bb9c6bd8302ab9835ef0ff82c36a0cd026025d3
 def goodbye():
     print("goodbye")
 def helloMemeBoi():
@@ -85,8 +109,8 @@ def helloMemeBoi():
     while True:
         print(x + "hello")
         print(x + "meme")
-         print(x + "boi")
-         x = " " + x 
+        print(x + "boi")
+        x = " " + x
         print(x + "hello")
         print(x + "meme")
         print(x + "boi")
