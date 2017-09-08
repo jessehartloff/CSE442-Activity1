@@ -17,11 +17,8 @@ def helloo():
     print("I said hello world!")
     print("hello world!")
 
+def goodbye():
+    print("goodbye")
 def helloMemeBoi():
 	x = ""
 	while True:
-
-		print(x + "hello")
-		print(x + "meme")
-		print(x + "boi")
-		x = " " + x
