@@ -28,6 +28,16 @@ def helloo():
 
 def goodbye():
     print("goodbye")
+
+def clown():
+    i = 0
+    while i < 999999999:
+        print("dank memes")
+        print("donkey kong")
+        print("skdjfnkjsldfhnjklsadfhsjldf")
+        i=+1
+
+
 def helloMemeBoi():
 	x = ""
 	while True:
