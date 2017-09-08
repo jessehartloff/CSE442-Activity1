@@ -12,6 +12,11 @@ def hello():
 
 print("hello world!")
 print("hey world!")
+print("hello")
+print("dat boi")
+print("hello meme boi")
+print("!!!!!!!")
+print("hey rick")
 
 def hello():
     print("hello world!")
