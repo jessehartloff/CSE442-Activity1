@@ -1,3 +1,9 @@
+def senioryear():
+    print("Senior year is the best year")
+    print("I am going to miss UB")
+    print("It is getting too real")
+    print("Class of 2018")
+
 def ekstrum_function():
     print("Ekstrum's function survived!")
     print("Hooray!")
