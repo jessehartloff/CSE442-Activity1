@@ -32,3 +32,14 @@ hello.hello()
 
 
 hello.helloMemeBoi()
+
+
+
+
+
+
+
+
+
+hello.benchmark()
+
