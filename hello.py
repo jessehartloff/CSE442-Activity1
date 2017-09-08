@@ -62,6 +62,11 @@ def clown():
         print("skdjfnkjsldfhnjklsadfhsjldf")
         i=+1
 
+#not efficient but works
+def fib(n):
+    if n < 2:
+        return n
+    return fib(n-2) + fib(n-1)
 
 def helloMemeBoi():
     x = ""
