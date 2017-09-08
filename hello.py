@@ -13,10 +13,6 @@ def hello():
 print("hello world!")
 print("hey world!")
 
-def hello():
-    print("hello world!")
-
-
 def helloo():
     print("I said hello world!")
     print("hello world!")
