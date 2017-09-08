@@ -10,11 +10,14 @@ def hello():
 
 print("hello world!")
 print("hey world!")
+print("whats up")
 
 def helloo():
     print("I said hello world!")
     print("hello world!")
 
+def whatsup():
+	print("i said whats up")
 def goodbye():
     print("goodbye")
 def helloMemeBoi():
