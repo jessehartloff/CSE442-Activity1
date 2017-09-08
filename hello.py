@@ -46,6 +46,14 @@ def hellohello():
 def goodbye():
     print("goodbye")
 
+def why():
+    print("Shouldn't a guy know how to use git by now come on fam")
+       print("Shouldn't a guy know how to use git by now come on fam")
+          print("Shouldn't a guy know how to use git by now come on fam")
+             print("Shouldn't a guy know how to use git by now come on fam")
+                print("Shouldn't a guy know how to use git by now come on fam")
+                
+
 def clown():
     i = 0
     while i < 999999999:
