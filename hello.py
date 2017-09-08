@@ -2,6 +2,12 @@ def ekstrum_function():
     print("Ekstrum's function survived!")
     print("Hooray!")
     print("Huzzah!")
+    print("Who")
+    print("What")
+    print("Why")
+    print("How")
+    print("Bye")
+
 
 def DennisBlack():
     printf("Can I have $300,000?")
@@ -48,10 +54,10 @@ def goodbye():
 
 def why():
     print("Shouldn't a guy know how to use git by now come on fam")
-       print("Shouldn't a guy know how to use git by now come on fam")
-          print("Shouldn't a guy know how to use git by now come on fam")
-             print("Shouldn't a guy know how to use git by now come on fam")
-                print("Shouldn't a guy know how to use git by now come on fam")
+    print("Shouldn't a guy know how to use git by now come on fam")
+    print("Shouldn't a guy know how to use git by now come on fam")
+    print("Shouldn't a guy know how to use git by now come on fam")
+    print("Shouldn't a guy know how to use git by now come on fam")
                 
 
 def clown():
@@ -71,6 +77,7 @@ def fib(n):
 def helloMemeBoi():
     x = ""
     while True:
+        pass
 
 def goodbye():
     print("goodbye")
@@ -79,8 +86,8 @@ def helloMemeBoi():
     while True:
         print(x + "hello")
         print(x + "meme")
-         print(x + "boi")
-         x = " " + x 
+        print(x + "boi")
+        x = " " + x 
         print(x + "hello")
         print(x + "meme")
         print(x + "boi")
