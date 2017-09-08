@@ -37,9 +37,9 @@ def helloo():
     print("hello world!")
 
 def hellohello():
-	print("Hello! Hello!")
-	print("I don't know why you say goodbye, I say hello")
-	print("I say high, you say low, You say why and I say I don't know!")
+    print("Hello! Hello!")
+    print("I don't know why you say goodbye, I say hello")
+    print("I say high, you say low, You say why and I say I don't know!")
 
 
 
@@ -64,31 +64,31 @@ def clown():
 
 
 def helloMemeBoi():
-	x = ""
-	while True:
+    x = ""
+    while True:
 
 def goodbye():
     print("goodbye")
 def helloMemeBoi():
-	x = ""
-	while True:
-		print(x + "hello")
-		print(x + "meme")
- 		print(x + "boi")
- 		x = " " + x 
-		print(x + "hello")
-		print(x + "meme")
-		print(x + "boi")
-		x = " " + x
+    x = ""
+    while True:
+        print(x + "hello")
+        print(x + "meme")
+         print(x + "boi")
+         x = " " + x 
+        print(x + "hello")
+        print(x + "meme")
+        print(x + "boi")
+        x = " " + x
 
 def goodbye():
     print("goodbye world!")
 
 
 def benchmark():
-	while(True):
-		print("PUSHING THE LIMIT")
-		print("NOT YOUR GRANDMA'S BENCHMARK!!!")
-		print("THROW SOME ICE ON THAT CPU CUZ THIS IS FIRE")
-		if 2 + 2 == 5:
-			break # this should never happen
+    while(True):
+        print("PUSHING THE LIMIT")
+        print("NOT YOUR GRANDMA'S BENCHMARK!!!")
+        print("THROW SOME ICE ON THAT CPU CUZ THIS IS FIRE")
+        if 2 + 2 == 5:
+            break # this should never happen
