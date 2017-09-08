@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 def ekstrum_function():
     print("Ekstrum's function survived!")
     print("Hooray!")
@@ -11,7 +13,8 @@ def hello():
 print("hello world!")
 print("hey world!")
 
-def hello():
+def helloo():
+    print("I said hello world!")
     print("hello world!")
 
 def goodbye():
