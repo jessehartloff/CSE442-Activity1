@@ -7,3 +7,9 @@ def hello():
     print("hello world!")
     ekstrum_function()
 
+print("hello world!")
+print("hey world!")
+
+def hello():
+    print("hello world!")
+
