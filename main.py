@@ -33,9 +33,7 @@ agree.strongly_agree_with("EVERYONE")
 
 
 hello.helloMemeBoi()
-<<<<<<< HEAD
 hello.goodbye()
-=======
 
 
 
