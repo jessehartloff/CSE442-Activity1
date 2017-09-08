@@ -35,6 +35,7 @@ agree.strongly_agree_with("EVERYONE")
 
 
 hello.helloMemeBoi()
+hello.goodbye()
 
 
 
@@ -46,3 +47,4 @@ hello.helloMemeBoi()
 
 hello.benchmark()
 
+>>>>>>> e4b89b5ff3d29dc36a52fa1cf0ad4e7734c22693
