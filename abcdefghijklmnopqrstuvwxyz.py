@@ -1,0 +1,6 @@
+print("hello")
+print("im getting annoyed")
+print("so done")
+print("just a few more")
+print("this was not well planned")
+print("MAAHHHHHHH")
