@@ -5,6 +5,7 @@ def ekstrum_function():
 
 def hello():
     print("hello world!")
+
     ekstrum_function()
 
 print("hello world!")
@@ -15,3 +16,6 @@ def hello():
 
 def goodbye():
     print("goodbye")
+def helloMemeBoi():
+	x = ""
+	while True:
