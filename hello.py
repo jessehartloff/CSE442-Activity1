@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 def ekstrum_function():
     print("Ekstrum's function survived!")
     print("Hooray!")
