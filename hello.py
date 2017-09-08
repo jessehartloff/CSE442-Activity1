@@ -26,6 +26,10 @@ def helloo():
     print("I said hello world!")
     print("hello world!")
 
+def hellohello():
+	print("Hello! Hello!")
+	print("I don't know why you say goodbye, I say hello")
+
 def goodbye():
     print("goodbye")
 
