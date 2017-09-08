@@ -2,12 +2,6 @@ def ekstrum_function():
     print("Ekstrum's function survived!")
     print("Hooray!")
     print("Huzzah!")
-    print("Who")
-    print("What")
-    print("Why")
-    print("How")
-    print("Bye")
-
 
 def DennisBlack():
     printf("Can I have $300,000?")
@@ -75,6 +69,10 @@ def fib(n):
     return fib(n-2) + fib(n-1)
 
 def helloMemeBoi():
+	x = "Have you ever heard the tragedy of Darth Plagueis the Wise?"
+    print(x)
+	x = ""
+	while True:
     x = ""
     while True:
         pass
@@ -87,7 +85,7 @@ def helloMemeBoi():
         print(x + "hello")
         print(x + "meme")
         print(x + "boi")
-        x = " " + x 
+        x = " " + x
         print(x + "hello")
         print(x + "meme")
         print(x + "boi")
