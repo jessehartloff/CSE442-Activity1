@@ -11,6 +11,14 @@ def hello():
     print("hello world!")
     simplefunction()
 
+def waddupp():
+    print("---------------------------------")
+    print("this is for credit")
+    print("idk what else to put")
+    print("only a couple more lines")
+    print("this will be a mess to read")
+    print("how about a line break")
+    print("---------------------------------")
 
 def simplefunction():
     print("This is a simple assignment")
