@@ -1,6 +1,11 @@
 print("hello world!!")
 print("hey world!")
-
+print("i hate git")
+print("omg")
+print("i hate this")
+print("why you do ths")
+print("am i done?")
+print("almost there")
 
 def hello():
     print("hello world!")
