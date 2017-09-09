@@ -1,129 +1,28 @@
-def senioryear():
-    print("Senior year is the best year")
-    print("I am going to miss UB")
-    print("It is getting too real")
-    print("Class of 2018")
-
-def ekstrum_function():
-    print("Ekstrum's function survived!")
-    print("Hooray!")
-    print("Huzzah!")
-def why():
-    print("Seriously?")
-    print("This is stupid")
-    print("Pushed")
-    print("Not contributer")
-
-def DennisBlack():
-    printf("Can I have $300,000?")
-    printf("No")
-    printf("Too late I already took it.")
-    printf("Not cool")
+print("hello world!!")
+print("hey world!")
+print("i hate git")
+print("omg")
+print("i hate this")
+print("why you do ths")
+print("am i done?")
+print("almost there")
+print("need to change this file again because adding one in class didnt add me as a contriubuter")
+print("exluding merges?")
 
 def hello():
     print("hello world!")
-    ekstrum_function()
-    why()
+    simplefunction()
 
+def waddupp():
+    print("---------------------------------")
+    print("this is for credit")
+    print("idk what else to put")
+    print("only a couple more lines")
+    print("this will be a mess to read")
+    print("how about a line break")
+    print("---------------------------------")
 
-print("hello world!")
-print("hey world!")
-<<<<<<< HEAD
-print("whats up")
-=======
-print("hello")
-print("dat boi")
-print("hello meme boi")
-print("!!!!!!!")
-print("hey rick")
-
-def helloo():
-    print("I said hello world!")
-    print("hello world!")
-
-def hello2():
-    #This is the new and improved version of hello world
-    #New Features include printing hello world in a better way
-    #I need a fifth line
-    print("hello world release v2.0")
->>>>>>> 9bb9c6bd8302ab9835ef0ff82c36a0cd026025d3
-
-def hello44():
-	print("hello for the millionth time")
-	#if this doesnt work im going to cry
-	print("yay it worked")
-
-def helloo():
-    print("I said hello world!")
-    print("hello world!")
-
-<<<<<<< HEAD
-def whatsup():
-	print("i said whats up")
-=======
-def hellohello():
-    print("Hello! Hello!")
-    print("I don't know why you say goodbye, I say hello")
-    print("I say high, you say low, You say why and I say I don't know!")
-
-
-def goodbye():
-    print("goodbye")
-
-def why():
-    print("Shouldn't a guy know how to use git by now come on fam")
-    print("Shouldn't a guy know how to use git by now come on fam")
-    print("Shouldn't a guy know how to use git by now come on fam")
-    print("Shouldn't a guy know how to use git by now come on fam")
-    print("Shouldn't a guy know how to use git by now come on fam")
-                
-
-def clown():
-    i = 0
-    while i < 999999999:
-        print("dank memes")
-        print("donkey kong")
-        print("skdjfnkjsldfhnjklsadfhsjldf")
-        i=+1
-
-#not efficient but works
-def fib(n):
-    if n < 2:
-        return n
-    return fib(n-2) + fib(n-1)
-
-def helloMemeBoi():
-	x = "Have you ever heard the tragedy of Darth Plagueis the Wise?"
-    print(x)
-	x = ""
-	while True:
-    x = ""
-    while True:
-        pass
-
->>>>>>> 9bb9c6bd8302ab9835ef0ff82c36a0cd026025d3
-def goodbye():
-    print("goodbye")
-def helloMemeBoi():
-    x = ""
-    while True:
-        print(x + "hello")
-        print(x + "meme")
-        print(x + "boi")
-        x = " " + x
-        print(x + "hello")
-        print(x + "meme")
-        print(x + "boi")
-        x = " " + x
-
-def goodbye():
-    print("goodbye world!")
-
-
-def benchmark():
-    while(True):
-        print("PUSHING THE LIMIT")
-        print("NOT YOUR GRANDMA'S BENCHMARK!!!")
-        print("THROW SOME ICE ON THAT CPU CUZ THIS IS FIRE")
-        if 2 + 2 == 5:
-            break # this should never happen
+def simplefunction():
+    print("This is a simple assignment")
+    print("I hope everyone knows how to use python")
+    print("Good luck with your projects")
