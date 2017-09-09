@@ -6,6 +6,7 @@ print("i hate this")
 print("why you do ths")
 print("am i done?")
 print("almost there")
+print("need to change this file because adding one in class didnt add me as a contriubuter")
 
 def hello():
     print("hello world!")
