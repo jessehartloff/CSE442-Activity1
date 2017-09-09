@@ -6,7 +6,8 @@ print("i hate this")
 print("why you do ths")
 print("am i done?")
 print("almost there")
-print("need to change this file because adding one in class didnt add me as a contriubuter")
+print("need to change this file again because adding one in class didnt add me as a contriubuter")
+print("exluding merges?")
 
 def hello():
     print("hello world!")
