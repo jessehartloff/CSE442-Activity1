@@ -26,3 +26,14 @@ def simplefunction():
     print("This is a simple assignment")
     print("I hope everyone knows how to use python")
     print("Good luck with your projects")
+
+def helpme():
+    print("---------------------------------")
+    print("I pushed 5 times and I am not in contributors")
+    print("What is going on?")
+    print("This is my 6th time pushing")
+    print("Please be successful")
+    simplefunction()
+    wadddup()
+    hello()
+
