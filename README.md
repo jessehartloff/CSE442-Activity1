@@ -11,3 +11,14 @@ git broke the pc
 
 git broke everything
 
+hi
+
+bye hello
+
+maybe
+
+this 
+
+is 
+
+life
