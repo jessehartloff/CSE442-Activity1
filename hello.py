@@ -48,10 +48,10 @@ def goodbye():
 
 def why():
     print("Shouldn't a guy know how to use git by now come on fam")
-       print("Shouldn't a guy know how to use git by now come on fam")
-          print("Shouldn't a guy know how to use git by now come on fam")
-             print("Shouldn't a guy know how to use git by now come on fam")
-                print("Shouldn't a guy know how to use git by now come on fam")
+    print("Shouldn't a guy know how to use git by now come on fam")
+    print("Shouldn't a guy know how to use git by now come on fam")
+    print("Shouldn't a guy know how to use git by now come on fam")
+    print("Shouldn't a guy know how to use git by now come on fam")
                 
 
 def clown():
@@ -71,20 +71,10 @@ def fib(n):
 def helloMemeBoi():
     x = ""
     while True:
-
-def goodbye():
-    print("goodbye")
-def helloMemeBoi():
-    x = ""
-    while True:
-        print(x + "hello")
-        print(x + "meme")
-         print(x + "boi")
-         x = " " + x 
         print(x + "hello")
         print(x + "meme")
         print(x + "boi")
-        x = " " + x
+        x = " " + x 
 
 def goodbye():
     print("goodbye world!")
