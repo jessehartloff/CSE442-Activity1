@@ -1,40 +1,41 @@
-def ekstrum_function():
-    print("Ekstrum's function survived!")
-    print("Hooray!")
-    print("Huzzah!")
-
-def DennisBlack():
-    printf("Can I have $300,000?")
-    printf("No")
-    printf("Too late I already took it.")
-    printf("Not cool")
+print("hello world!!")
+print("hey world!")
+print("i hate git")
+print("omg")
+print("i hate this")
+print("why you do ths")
+print("am i done?")
+print("almost there")
+print("need to change this file again because adding one in class didnt add me as a contriubuter")
+print("exluding merges?")
 
 def hello():
     print("hello world!")
-    ekstrum_function()
+    simplefunction()
 
+def waddupp():
+    print("---------------------------------")
+    print("this is for credit")
+    print("idk what else to put")
+    print("only a couple more lines")
+    print("this will be a mess to read")
+    print("how about a line break")
+    print("---------------------------------")
 
-print("hello world!")
-print("hey world!")
-print("hello")
-print("dat boi")
-print("hello meme boi")
-print("!!!!!!!")
-print("hey rick")
+def simplefunction():
+    print("This is a simple assignment")
+    print("I hope everyone knows how to use python")
+    print("Good luck with your projects")
 
-def helloo():
-    print("I said hello world!")
-    print("hello world!")
-
-def hello2():
-    #This is the new and improved version of hello world
-    #New Features include printing hello world in a better way
-    #I need a fifth line
-    print("hello world release v2.0")
-
-def helloo():
-    print("I said hello world!")
-    print("hello world!")
+def helpme():
+    print("---------------------------------")
+    print("I pushed 5 times and I am not in contributors")
+    print("What is going on?")
+    print("This is my 6th time pushing")
+    print("Please be successful")
+    simplefunction()
+    wadddup()
+    hello()
 
 def hellohello():
     print("Hello! Hello!")
@@ -87,3 +88,4 @@ def benchmark():
         print("THROW SOME ICE ON THAT CPU CUZ THIS IS FIRE")
         if 2 + 2 == 5:
             break # this should never happen
+

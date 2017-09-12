@@ -1,13 +1,24 @@
-This is Jesse's attempt to make a whole class do git at the same time. It worked poorly. 
-4/10
+toy story 2 was ok
+but insidious chapter 3 was better.
 
-<img src="https://vignette3.wikia.nocookie.net/mariokart/images/2/28/Donkey_Kong.jpg/revision/latest?cb=20170711023705">
- 
-I like updating Readmes :D 
+hmmmmm
 
-Is this enough additions for you??
+HMMMMMMMMM
 
-<b>READMEs are the best!</b>
+git broke me
 
-```Testing 1, 2, 3...```
+git broke the pc
 
+git broke everything
+
+hi
+
+bye hello
+
+maybe
+
+this 
+
+is 
+
+life

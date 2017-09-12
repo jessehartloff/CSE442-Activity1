@@ -1,5 +1,0 @@
-A 442 Haiku
-
-Here is this classroom
-We are all learning to become
-Software Engineers.
